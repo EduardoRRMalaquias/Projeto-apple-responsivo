@@ -1,0 +1,16 @@
+
+:root{
+
+    --Cor-Escura: #00395C;
+    --Cor-Clara: #44A5E1;
+    --Cor-Principal: #0187DC;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: var(--Cor-Principal);
+}
